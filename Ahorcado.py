@@ -1,3 +1,5 @@
+
+
 import random
 palabras = ["casa","camioneta","globo","juego","tenedor","avioneta","asteroide","ladrillo","maquina","herramienta","libros","perro","pizarra","caja","ventana","cristal","silla","cesped","lavadora","espejo","caracol"]
 mododejuego=("Intenta adivinar la palabra secreta. Cadavez que adivines una letra el juego te dira en que posicion se encuentra, siendo 0 la primera. Buena suerte")
